@@ -262,6 +262,13 @@ make help
 4. สร้าง pull request
 
 ## License
+DATABASE_URL="postgresql://postgres.qlndfcpbfanhkmazwxmy:062191komkem@aws-1-ap-southeast-1.pooler.supabase.com:6543/postgres"
+SERVER_PORT=8080
+
+TOKEN_SECRET="9ay2G94hHx15zK2yPAjpUMppId0H2DRda0TlPHqyoju7gqP02ESDUfkKW8T9XVYHE1Twme4a1oJdeYEZQG8tmfV2JdIIbucpd9Qd7klcE3ecRBa4FUaaOh90xyqJfglX"
+DURATION="24h"
+
+JWT_SECRET="WF0T5Z37vZA1mJeaGQG1VBoLlLMLSLhGAJXYSGgCdgOF8qQZyvZBWKEv4fS3Jyk4HZfVaf3vMjHhlkbD5c7MwhqejWcvp45TWwQH87omr9Ef5GCAdQFFPFhJEmm4BQyg"
 
 MIT License
 # savvy-service
