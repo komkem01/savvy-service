@@ -262,9 +262,20 @@ make help
 4. สร้าง pull request
 
 ## License
-DATABASE_URL="postgresql://postgres.qlndfcpbfanhkmazwxmy:062191komkem@aws-1-ap-southeast-1.pooler.supabase.com:6543/postgres"
-SERVER_PORT=8080
 
+# Database Configuration
+DB_HOST=aws-1-ap-southeast-1.pooler.supabase.com
+DB_PORT=6543
+DB_USER=postgres.qlndfcpbfanhkmazwxmy
+DB_PASSWORD=gT25oEruxpnvh5QY
+DB_NAME=postgres
+DB_SSL_MODE=require
+
+# Server Configuration
+SERVER_PORT=8080
+PORT=8080
+
+# Authentication
 TOKEN_SECRET="9ay2G94hHx15zK2yPAjpUMppId0H2DRda0TlPHqyoju7gqP02ESDUfkKW8T9XVYHE1Twme4a1oJdeYEZQG8tmfV2JdIIbucpd9Qd7klcE3ecRBa4FUaaOh90xyqJfglX"
 DURATION="24h"
 
